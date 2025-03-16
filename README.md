@@ -1,3 +1,5 @@
+# CHIHIRO SIGNED
+
 # 🌟 AlterEgo - Google Gemini AI-Powered Virtual Assistant
 
 AlterEgo is a **C# desktop application** inspired by the *Danganronpa* series, featuring an AI assistant that integrates **Google Gemini AI** for text-based conversations, along with **speech recognition**, **text-to-speech synthesis**, and **dynamic character animations**. This interactive assistant brings AI-powered conversations to life!
